@@ -1,10 +1,9 @@
 package patikaJava;
 import java.util.Scanner;
-public class MükemmelSayýBulanProgram {
+public class MÃ¼kemmelSayÃ½BulanProgram {
 	public static void main(String[] args) {
 		int a, b, toplam = 0;
 		Scanner input = new Scanner(System.in);
-		// 28 = 14+7+4+2+1
 		
 		System.out.println("Bir sayi giriniz: ");
 		a = input.nextInt();
